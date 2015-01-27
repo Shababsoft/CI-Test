@@ -1,0 +1,6 @@
+config/
+mm.log
+*.sublime-workspace
+*.sublime-settings
+*.sublime-project
+src/package.xml
